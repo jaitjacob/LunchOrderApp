@@ -4,7 +4,7 @@ App development test for HealthLogix.
 # Screens
 1. Welcome Screen
 The App starts with a splash screen displaying a logo and name of the App. The Logo asset was made possible using Canva.
-<img src='https://github.com/jaitjacob/LunchOrderApp/blob/master/lunch_order_app/asset/SplashScreen.png' align='left' width='25%'>
+<img src='https://github.com/jaitjacob/LunchOrderApp/blob/master/lunch_order_app/asset/SplashScreen.png' align='center' width='25%'>
 
 
 2. Order Status Screen
@@ -16,7 +16,7 @@ The App starts with a splash screen displaying a logo and name of the App. The L
 -To remove an item simply drag and drop the item onto the 'bin' icon on the top left of the screen.
 
 # Demo
-<img src='https://github.com/jaitjacob/LunchOrderApp/blob/master/lunch_order_app/asset/demo.gif' align='left' width='25%'>
+<img src='https://github.com/jaitjacob/LunchOrderApp/blob/master/lunch_order_app/asset/demo.gif' align='center' width='25%'>
 
 # Design Architecture used - BLOC
 - The item selection and the cart update mechanism is therefore seperated from the UI. BLOC is primarily used within the Flutter community to seperate buginess logic from that of its UI components. This helps when the App grows larger in size.
